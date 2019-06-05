@@ -5,6 +5,6 @@ package com.it.gitdemo.service;
  *
  * @author wangxi
  */
-public class Test {
+public class A {
 }
 
