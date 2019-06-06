@@ -6,5 +6,9 @@ package com.it.gitdemo.service;
  * @author wangxi
  */
 public class AA {
+
+    public static void main(String[] args) {
+        System.out.println();
+    }
 }
 
